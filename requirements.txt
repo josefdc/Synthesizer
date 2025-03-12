@@ -3,9 +3,9 @@ catalogue==1.0.0
 certifi==2020.6.20
 chardet==3.0.4
 cymem==2.0.3
-de-core-news-sm==2.3.0
+#de-core-news-sm==2.3.0
 dill==0.3.2
-en-core-web-sm==2.3.1
+#en-core-web-sm==2.3.1
 future==0.18.2
 idna==2.10
 murmurhash==1.0.2
